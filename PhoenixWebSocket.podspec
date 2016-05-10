@@ -31,7 +31,7 @@ http://www.phoenixframework.org/docs/channels
   s.homepage         = "https://github.com/lgauthier/PhoenixWebSocket"
   s.license          = 'MIT'
   s.source           = { :git => "https://github.com/lgauthier/PhoenixWebSocket", :tag => s.version.to_s }
-  s.authors          = 'almassapargali'
+  s.author           = 'almassapargali'
 
   s.platform     = :ios, '8.0'
   s.requires_arc = true
